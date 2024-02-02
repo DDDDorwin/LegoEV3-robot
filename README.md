@@ -2,6 +2,10 @@
 
 This project is a comprehensive security solution utilizing the versatile LEGO EV3 expansionsset. Our robot, Robosistance, combines innovative software and hardware development to create a security robot capable of performing a variety of tasks.
 
+For more detailed information about our project, please refer to our documentation available on Google Docs:
+
+[View Detailed Project Documentation](https://docs.google.com/file/d/1D9C4a-TLAHeQpdVU-6WqZQHNaGy3qEXd/preview)
+
 ## Project Overview
 
 Robosistance is designed to enhance security measures through automation and robotics. The project is divided into three main components:
